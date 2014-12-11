@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "description": "An attempt to use node js and PostgreSQL",
+  "dependencies": {
+    "express"     : "*",
+    "path"        : "*",
+    "sequelize"   : "*",
+    "body-parser" : "*",
+    "pg"          : "*",
+    "random-words" : "*"
+  }
+}
